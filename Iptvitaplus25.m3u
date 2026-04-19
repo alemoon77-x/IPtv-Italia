@@ -136,7 +136,8 @@ https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Rai scuola" tvg-chno="57" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png" group-title="Rai",Rai Scuola
 https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-chno="58" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png" group-title="Rai",Rai Sport
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="MotorTrend" tvg-chno="59" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Discovery",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Sport",Sportitalia
@@ -232,8 +233,6 @@ https://amg00218-amg00218c1-wedotv-eu-7512.playouts.now.amagi.tv/playlist/amg002
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJhYTcxMTEwOWZkNzJhZWRjMmFkYmE4NDJhOWM1Mjg5NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzYwMTcyNzk3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.n1GyzW1CCLH5Jmmpv03sA0bhl9JtZgpo3kOgIuia7JnVCrXI16PjzJ9lW3xywue13e5kMEyrHCILSgJnbYXNDEOdlmmXMTK_o798yuZuDmwAmuepeWvk2iVErUoIw3lj3myNVAgrOltuekw3zgg9_-cqWOz3NKO61X3klvg6oJ3qlDwVf8qv812MxJ1mu7epWYRqk22ixJeFlV4_fuRsRFpAlmU3a4TdNvnTUZzYWIDl55ij_JHQULiy7KyZFuqIHQqKa0qvn6x2Z68lhoyFdcajJAUK4TFfDmEcNfuex8LpUYD-7JVMsrtLAHkFvhtAIakJGJc6mEt6u175YOJniw/manifest/video.m3u8?CMCD=cid%3D%221760129598871%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a7341de7-009f-4152-9507-180bf4b5a55b%22%2Csu
 #EXTINF:-1 tvg-name="TV9 Telemaremma" tvg-id="TV9Telemaremma.it" tvg-logo="https://www.tv9italia.it/wp-content/uploads/2024/11/logo-new.png" group-title="Regionali",TV9 Telemaremma
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/6339ee65498e3ca8e75590daa7e447f5/index.m3u8
-
-
 #EXTINF:-1 tvg-name="Film Top - Rakuten TV" tvgid="RakutenTopFreeItRakutenTv.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100007FN_20221012T021057SQUARE.png_20221012021057.png" group-title="Film",Film Top - Rakuten TV
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 #EXTINF:-1 tvg-name="Film d'azione - Rakuten TV" tvgid="RakutenActionItRakutenTv.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ45000188Z_20220404T010000SQUARE.png_20220404010000.png" group-title="Film",Film d'azione - Rakuten TV
